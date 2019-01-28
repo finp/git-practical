@@ -23,15 +23,16 @@ about breaking everything, or losing stuff
 
 == What we'll cover
 
-* xref:./01-commits.adoc[Commits]
-* xref:./02-branches.adoc[Branches]
-* xref:./03-merging.adoc[Merging]
-* xref:./04-conflicts.adoc[Conflicts]
-* xref:./05-rebasing.adoc[Rebasing]
-* xref:./06-stashing.adoc[Stashing]
-* xref:./07-cherry-picking.adoc[Cherry Picking]
-* xref:./08-tagging.adoc[Tagging]
-* xref:./09-bisecting.adoc[Bisecting]
-* xref:./10-config.adoc[Git Config]
-* xref:./11-hooks.adoc[Hooks]
-* xref:./12-under-the-covers.adoc[Under the Covers]
+* link:./01-commits.adoc[Commits]
+* link:./02-branches.adoc[Branches]
+* link:./03-merging.adoc[Merging]
+* link:./04-conflicts.adoc[Conflicts]
+* link:./05-rebasing.adoc[Rebasing]
+* link:./06-stashing.adoc[Stashing]
+* link:./07-cherry-picking.adoc[Cherry Picking]
+* link:./08-tagging.adoc[Tagging]
+* link:./09-bisecting.adoc[Bisecting]
+* link:./10-config.adoc[Git Config]
+* link:./11-hooks.adoc[Hooks]
+* link:./12-under-the-covers.adoc[Under the Covers]
+
